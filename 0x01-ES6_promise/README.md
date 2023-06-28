@@ -50,7 +50,7 @@ in your project directory:
 * Install ESLint using: `npm install --save-dev eslint`
 
 # Files
-`package.json`
+## `package.json`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
@@ -78,7 +78,7 @@ in your project directory:
 
 </details>
 
-`babel.config.js`
+## `babel.config.js`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
@@ -99,7 +99,7 @@ module.exports = {
 
 </details>
 
-`utils.js`
+## `utils.js`
 Use when you get to tasks requiring `uploadPhoto` and `createUser`.
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
@@ -123,7 +123,7 @@ export function createUser() {
 
 </details>
 
-`.eslintrc.js`
+## `.eslintrc.js`
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
