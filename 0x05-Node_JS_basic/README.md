@@ -34,7 +34,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Provided files
 ## `database.csv`
-```
+```csv
 firstname,lastname,age,field
 Johann,Kerbrou,30,CS
 Guillaume,Salou,30,SWE
