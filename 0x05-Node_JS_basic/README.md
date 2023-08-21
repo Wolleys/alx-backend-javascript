@@ -52,7 +52,7 @@ Katie,Shirou,21,CS
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
-```
+```json
 {
   "name": "node_js_basics",
   "version": "1.0.0",
@@ -92,7 +92,7 @@ Katie,Shirou,21,CS
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
-```
+```js
 module.exports = {
   presets: [
     [
@@ -113,7 +113,7 @@ module.exports = {
 <details>
 <summary><b>Click to show/hide file contents</b></summary>
 
-```
+```js
 module.exports = {
   env: {
     browser: false,
