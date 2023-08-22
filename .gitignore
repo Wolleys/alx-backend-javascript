@@ -3,3 +3,4 @@ node_modules/
 
 # Ignore all main files
 *-main.js
+*-main_*.js
